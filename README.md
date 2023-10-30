@@ -1,4 +1,4 @@
-# Starling Project Template (template-project)
+# Orchid Initiative Project Template (template-project)
 
 To do: The template should have the charter for projects in progress, but the project closeout report for completed projects.  Just one or the other.
 
